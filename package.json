@@ -1,0 +1,17 @@
+{
+  "name": "mongotest",
+  "version": "1.0.0",
+  "description": "test your mongodb server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "mongodb": "^6.2.0",
+    "node-fetch": "^3.2.6"
+  }
+}
